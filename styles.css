@@ -1,4 +1,5 @@
-body {background:gray }
+body {background:gray;
+text-align:center }
 
 a{color:white}
 
@@ -8,9 +9,14 @@ nav li{ display:inline;
 	margin: 70px;
 	background:black}
 	
-h1 {border: 10px solid purple;
+h1 {text-align: center;
+	border: 10px solid purple;
 	margin:40px;
 	padding: 5px;
 	background: fuchsia}
 	
 img {margin: 40px}
+
+h2 {text-align: center}
+
+h3{margin:50px}

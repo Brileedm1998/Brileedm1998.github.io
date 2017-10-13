@@ -4,8 +4,13 @@ nav li{ display:inline;
 	margin: 35px;
 	background:white;}
 	
-	img{padding: 50px}
+	img{padding: 50px;
+		display:left}
 	
-	h1 { padding: 20px}
+	h1 {text-align:center;
+		padding: 20px}
 	
 	body{background:silver}
+	
+	h3 {padding: 20px;
+	display:table}

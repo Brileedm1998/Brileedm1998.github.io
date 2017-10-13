@@ -3,3 +3,10 @@ nav li{ display:inline;
 	padding: 5px;
 	margin: 35px;
 	background:white;}
+	
+	h2 {text-align: center}
+	
+	body {background:silver;
+	text-align:center} 
+	
+	h1{margin:50px}

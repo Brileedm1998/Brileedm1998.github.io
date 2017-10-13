@@ -4,13 +4,16 @@ nav li{ display:inline;
 	margin: 35px;
 	background:white;}
 	
-h1 {margin: 50px}	
-h3 {display: inherit;
+h1 {text-align: center;
+	margin: 50px}	
+h3 {text-align: center;
+	display: inherit;
 	border: solid purple;
 	margin: 50 px;}
 	
 	body{background:silver}
 	
+h2 {text-align: center}
 	
 	
 	
